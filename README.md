@@ -49,3 +49,4 @@ I am a Computer Engineer student and Hobbyist Full Stack Web Developer, I sharpe
 ![](https://img.shields.io/badge/Style-materialUI-informational?style=flat&logo=material-ui&logoColor=white&color=6831e0)
 
 [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanthanki&show_icons=true&theme=tokyonight)](https://github.com/namanthanki/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanthanki&layout=compact)](https://github.com/namanthanki/github-readme-stats)
