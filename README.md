@@ -33,4 +33,4 @@ I am a Computer Engineer student and Hobbyist Full Stack Web Developer, I sharpe
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Style-materialUI-informational?style=flat&logo=material-ui&logoColor=white&color=6831e0)
 
-[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanthanki)](https://github.com/namanthanki/github-readme-stats)
+[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanthanki&show_icons=true&theme=radical)](https://github.com/namanthanki/github-readme-stats)
