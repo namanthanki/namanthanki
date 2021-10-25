@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Waving at the cool ones 👋
 I am a Computer Engineer student and Hobbyist Full Stack Web Developer, I sharpen my Shenanigans in C. Bios are too static to describe myself but I have been through alot of interests and subjects throughout the 18 years of my life and some of them very exciting such as Wildlife Photography, Ornithology, Cycling, Chess, Video Games and other things but more than that what I truly want to purue infinitely is the area of Computer Engineering and seeing the invisble. 
 
-## 💼 Skills
+## 💼 Computer Engineering Skills
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6831e0)
