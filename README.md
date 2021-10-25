@@ -24,6 +24,7 @@ I am a Computer Engineer student and Hobbyist Full Stack Web Developer, I sharpe
 
 ![](https://img.shields.io/badge/Script-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Script-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=6831e0)
+![](https://img.shields.io/badge/Script-PHP-informational?style=flat&logo=php&logoColor=white&color=6831e0)
 
 <br>
 
