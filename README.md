@@ -51,7 +51,7 @@ I am a Computer Engineer student and Hobbyist Full Stack Web Developer, I sharpe
 ## 📈 GitHub Stats
 
 <a href="https://github.com/namanthanki">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanthanki&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=E05A47&bg_color=#1b1a26" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanthanki&hide=html,css&title_color=6c9ff4&text_color=35aea1&icon_color=be90f2&bg_color=1b1a26" />
 </a>
 
 <a href="https://github.com/namanthanki">
