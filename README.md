@@ -19,29 +19,24 @@ I am a Computer Engineer student and Hobbyist Full Stack Web Developer, I sharpe
 
 ![](https://img.shields.io/badge/Systems-C-informational?style=flat&logo=c&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Systems-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6831e0)
-
 <br>
 
 ![](https://img.shields.io/badge/Script-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Script-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Script-PHP-informational?style=flat&logo=php&logoColor=white&color=6831e0)
-
 <br>
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=6831e0)
-
 <br>
 
 ![](https://img.shields.io/badge/App-Java-informational?style=flat&logo=java&logoColor=white&color=6831e0)
-
 <br>
 
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=6831e0)
-
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=6831e0)
