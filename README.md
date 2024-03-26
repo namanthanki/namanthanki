@@ -42,18 +42,3 @@ I am a Computer Engineer student and Hobbyist Full Stack Web Developer, I sharpe
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Style-materialUI-informational?style=flat&logo=material-ui&logoColor=white&color=6831e0)
-
-## 📈 GitHub Stats
-
-<a href="https://github.com/namanthanki">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanthanki&hide=html,css&title_color=6c9ff4&text_color=35aea1&icon_color=be90f2&bg_color=1b1a26" />
-</a>
-
-<a href="https://github.com/namanthanki">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=namanthanki&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Naman's GitHub Stats" />
-</a>
-
-<!-- 
-[![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanthanki&show_icons=true&theme=tokyonight)](https://github.com/namanthanki/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanthanki&layout=compact)](https://github.com/namanthanki/github-readme-stats) 
--->
