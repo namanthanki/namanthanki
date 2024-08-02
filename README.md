@@ -12,8 +12,6 @@ I am a Computer Engineer student and Hobbyist Full Stack Web Developer. I sharpe
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=6831e0)
-
-### Scripting
 ![](https://img.shields.io/badge/Script-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=6831e0)
 ![](https://img.shields.io/badge/Script-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6831e0)
 
