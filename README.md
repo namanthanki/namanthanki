@@ -43,5 +43,5 @@ I am a Computer Engineer student and Hobbyist Full Stack Web Developer. I sharpe
 ![](https://img.shields.io/badge/Library-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=6831e0)
 
 ## 📫 How to Reach Me
-- Email: [namantahnki@hotmail.com](mailto:namanthanki@hotmail.com)
+- Email: [namanthanki@hotmail.com](mailto:namanthanki@hotmail.com)
 - LinkedIn: [Naman Thanki](https://www.linkedin.com/in/namanthanki)
