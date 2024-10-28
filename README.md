@@ -1,5 +1,5 @@
 ### Waving at the cool ones 👋
-I am a Computer Engineer student and Hobbyist Full Stack Web Developer. I sharpen my Shenanigans in C. Bios are too static to describe myself, but I have been through a lot of interests and subjects throughout my life, some of them very exciting, such as Wildlife Photography, Ornithology, Cycling, Chess, Video Games, and more. But more than that, what I truly want to pursue to infinity is the area of Computer Engineering and seeing the invisible.
+I am a Computer Engineer and working as Full Stack Engineer. I sharpen my Shenanigans in C. Bios are too static to describe myself, but I have been through a lot of interests and subjects throughout my life, some of them very exciting, such as Wildlife Photography, Ornithology, Cycling, Chess, Video Games, and more. But more than that, what I truly want to pursue to infinity is the area of Computer Engineering and seeing the invisible.
 
 ## 💼 Computer Engineering Skills
 
